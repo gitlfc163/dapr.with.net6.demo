@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\project\LFC.NET.Demo.Project\Dapr.Demo\Dapr.Demo.Order.API\bin\Release\net6.0\Dapr.Demo.Order.API\</_PublishTargetUrl>
+    <History>True|2022-09-08T02:23:28.4884844Z;True|2022-09-08T09:46:23.2875590+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
